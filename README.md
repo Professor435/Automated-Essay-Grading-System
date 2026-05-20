@@ -1,6 +1,6 @@
 # Automated-Essay-Grading-System
 ## 🎓 EssayGrade Pro — AI-Powered Automated Essay Grading System
-
+ 
 **EssayGrade Pro** is a fully functional, feature-rich web application that provides intelligent, real-time essay assessment using advanced linguistic analysis algorithms. Built with vanilla JavaScript and modern CSS, it delivers instant, detailed feedback comparable to professional human grading — all within the browser.
 
 
