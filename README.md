@@ -16,7 +16,7 @@
 | **📚 Grading History** | Persistent localStorage-based history with search, review, and re-grade capabilities |
 | **📄 Report Generation** | One-click download of comprehensive TXT reports with full statistics |
 | **🔍 Plagiarism Detection** | Built-in similarity checking simulation |
-| **⚙️ Customizable Rubrics** | Adjustable grading weights, strict mode toggle, and auto-save preferences |
+| **⚙️ Customizable Rubrics** | Adjustable grading weights, strict mode toggle, and auto-save preferences | 
 
 ---
 
