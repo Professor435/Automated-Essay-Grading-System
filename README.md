@@ -110,4 +110,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Font Awesome for comprehensive iconography
 - The open-source education community for inspiring accessible learning tools
 
-for other projects contact (professorshami435@gmail.com)
+for other projects or FYP's contact (professorshami435@gmail.com)
