@@ -30,7 +30,7 @@
 - **Responsive:** Mobile-first design with collapsible sidebar
 
 ---
-
+ 
 ### 🚀 Getting Started
 
 ```bash
