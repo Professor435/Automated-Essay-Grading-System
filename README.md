@@ -6,7 +6,7 @@
 
      
 ### ✨ Key Features    
-
+ 
 | Feature | Description |  
 |---------|-------------| 
 | **🤖 Intelligent Scoring Engine** | Multi-dimensional analysis across Content (30%), Organization (25%), Language (25%), and Conventions (20%) with customizable weighting |
